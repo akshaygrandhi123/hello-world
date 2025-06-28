@@ -6,7 +6,6 @@ matplotlib
 plotly
 seaborn
 scipy
-math
 
 # pip install -r requirements.txt
 # streamlit run app.py
