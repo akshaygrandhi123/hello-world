@@ -49,7 +49,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown(
-    "<h4 style='color:#ff6a00; font-family:Montserrat, sans-serif;'>Calculate the area of a circle and flex your math skills! 🔥</h4>",
+    "<h4 style='color:#ff6a00; font-family:Montserrat, sans-serif;'>Calculate the area of a circle and flex your math skills!</h4>",
     unsafe_allow_html=True
 )
 
@@ -113,6 +113,6 @@ else:
             st.write(f"{idx}. Radius: {r}, Area: {a:.2f}")
 
 st.markdown(
-    "<hr><p style='color:gray;font-size:16px;font-family:Montserrat, sans-serif;'>Made with ❤️ for the 'Instagram using Streamlit</p>",
+    "<hr><p style='color:gray;font-size:16px;font-family:Montserrat, sans-serif;'>Made with Streamlit❤️</p>",
     unsafe_allow_html=True
 )
