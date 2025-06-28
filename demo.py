@@ -6,6 +6,6 @@ def area_of_circle(r):
   pi = 3.14
   return pi*r*r
 
-# Area of Circle R = 5
-r = 5
+# Area of Circle R = 10
+r = 10
 print(area_of_circle(r))
